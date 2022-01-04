@@ -18,7 +18,7 @@
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
-  <div class="container signin">
+  <div class="container signi">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
